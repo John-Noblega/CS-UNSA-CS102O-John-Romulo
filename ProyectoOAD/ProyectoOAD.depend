@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1369239146 source:/home/malik/ProyectoOAD/main.cpp
+	<iostream>
+	"Matrix.h"
+	<cstring>
+	"Lexer.h"
+	"Expresion.h"
+	"Operand.h"
+
+1369200424 /home/malik/ProyectoOAD/Matrix.h
+	<map>
+
+1369238867 /home/malik/ProyectoOAD/inclusions.h
+	<stack>
+	<map>
+	<string>
+	<math.h>
+
+1369147276 source:/home/malik/ProyectoOAD/Expresion.cpp
+	"Expresion.h"
+
+1369225069 /home/malik/ProyectoOAD/Expresion.h
+
+1369148775 source:/home/malik/ProyectoOAD/Operand.cpp
+	"Operand.h"
+
+1369148646 /home/malik/ProyectoOAD/Operand.h
+	"Expresion.h"
+
+1369238821 source:/home/malik/ProyectoOAD/Operation.cpp
+	"Operation.h"
+
+1369161254 /home/malik/ProyectoOAD/Operation.h
+	"Expresion.h"
+	"inclusions.h"
+	<string>
+	<map>
+
+1369224101 source:/home/malik/ProyectoOAD/Cell.cpp
+	"Cell.h"
+
+1369173696 /home/malik/ProyectoOAD/Cell.h
+	"Expresion.h"
+	"inclusions.h"
+	<list>
+
+1369231377 /home/malik/ProyectoOAD/ToolsLexer.h
+	<string>
+	<list>
+	"Cell.h"
+	<iostream>
+
+1369239133 source:/home/malik/ProyectoOAD/Lexer.cpp
+	"Lexer.h"
+
+1369234685 /home/malik/ProyectoOAD/Lexer.h
+	"Matrix.h"
+	"Cell.h"
+	"ToolsLexer.h"
+	<list>
+	<vector>
+	<iostream>
+	<cstring>
+	<stdlib.h>
+

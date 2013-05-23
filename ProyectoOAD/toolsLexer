@@ -1,0 +1,10 @@
+namespace toolsParser
+{
+struct Token
+{
+    string m_op;
+    tValue value;
+
+};
+}
+
