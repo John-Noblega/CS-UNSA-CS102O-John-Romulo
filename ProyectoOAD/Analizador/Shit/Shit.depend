@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1371361534 source:c:\users\andree\documents\github\cs-unsa-cs102o-john-romulo\proyectooad\analizador\shit\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<map>
+	<boost/tokenizer.hpp>
+
+1370322452 source:c:\users\andree\documents\github\cs-unsa-cs102o-john-romulo\proyectooad\analizador\shit\prova.cpp
+	"Prova.h"
+
+1370322452 c:\users\andree\documents\github\cs-unsa-cs102o-john-romulo\proyectooad\analizador\shit\prova.h
+

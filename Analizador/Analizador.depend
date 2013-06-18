@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1371533276 source:c:\users\andree\documents\github\cs-unsa-cs102o-john-romulo\proyectooad\analizador\analizador\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<boost/tokenizer.hpp>
+	"TableSymbols.h"
+
+1371536547 source:c:\users\andree\documents\github\cs-unsa-cs102o-john-romulo\proyectooad\analizador\analizador\lexer.cpp
+	"Lexer.h"
+
+1371543131 c:\users\andree\documents\github\cs-unsa-cs102o-john-romulo\proyectooad\analizador\analizador\lexer.h
+	<boost/tokenizer.hpp>
+	"TableSymbols.h"
+
+1371532947 source:c:\users\andree\documents\github\cs-unsa-cs102o-john-romulo\proyectooad\analizador\analizador\tablesymbols.cpp
+	"TableSymbols.h"
+
+1371537656 c:\users\andree\documents\github\cs-unsa-cs102o-john-romulo\proyectooad\analizador\analizador\tablesymbols.h
+	<map>
+	<string>
+
+1371492276 source:c:\users\andree\documents\github\cs-unsa-cs102o-john-romulo\proyectooad\analizador\analizador\tokeninfo.cpp
+	"TokenInfo.h"
+
+1371492512 c:\users\andree\documents\github\cs-unsa-cs102o-john-romulo\proyectooad\analizador\analizador\tokeninfo.h
+
+1371536547 source:c:\users\andree\documents\github\cs-unsa-cs102o-john-romulo\analizador\lexer.cpp
+	"Lexer.h"
+
+1371543260 c:\users\andree\documents\github\cs-unsa-cs102o-john-romulo\analizador\lexer.h
+	<boost/tokenizer.hpp>
+	"TableSymbols.h"
+
+1371537656 c:\users\andree\documents\github\cs-unsa-cs102o-john-romulo\analizador\tablesymbols.h
+	<map>
+	<string>
+
+1371533276 source:c:\users\andree\documents\github\cs-unsa-cs102o-john-romulo\analizador\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<boost/tokenizer.hpp>
+	"TableSymbols.h"
+
+1371532947 source:c:\users\andree\documents\github\cs-unsa-cs102o-john-romulo\analizador\tablesymbols.cpp
+	"TableSymbols.h"
+
+1371492276 source:c:\users\andree\documents\github\cs-unsa-cs102o-john-romulo\analizador\tokeninfo.cpp
+	"TokenInfo.h"
+
+1371492512 c:\users\andree\documents\github\cs-unsa-cs102o-john-romulo\analizador\tokeninfo.h
+
+1371543131 source:c:\users\andree\documents\github\cs-unsa-cs102o-john-romulo\analizador\toolsandfunctions.cpp
+	"ToolsAndFunctions.h"
+
+1371543131 c:\users\andree\documents\github\cs-unsa-cs102o-john-romulo\analizador\toolsandfunctions.h
+

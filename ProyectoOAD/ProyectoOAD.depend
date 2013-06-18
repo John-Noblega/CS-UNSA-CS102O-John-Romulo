@@ -63,3 +63,67 @@
 	<cstring>
 	<stdlib.h>
 
+1369623112 source:c:\users\andree\documents\github\cs-unsa-cs102o-john-romulo\proyectooad\cell.cpp
+	"Cell.h"
+
+1369623112 c:\users\andree\documents\github\cs-unsa-cs102o-john-romulo\proyectooad\cell.h
+	"Expresion.h"
+	"inclusions.h"
+	<list>
+
+1369623112 c:\users\andree\documents\github\cs-unsa-cs102o-john-romulo\proyectooad\expresion.h
+
+1369623112 c:\users\andree\documents\github\cs-unsa-cs102o-john-romulo\proyectooad\inclusions.h
+	<stack>
+	<map>
+	<string>
+	<math.h>
+
+1369623112 source:c:\users\andree\documents\github\cs-unsa-cs102o-john-romulo\proyectooad\expresion.cpp
+	"Expresion.h"
+
+1369623112 source:c:\users\andree\documents\github\cs-unsa-cs102o-john-romulo\proyectooad\lexer.cpp
+	"Lexer.h"
+
+1369623112 c:\users\andree\documents\github\cs-unsa-cs102o-john-romulo\proyectooad\lexer.h
+	"Matrix.h"
+	"Cell.h"
+	"ToolsLexer.h"
+	<list>
+	<vector>
+	<iostream>
+	<cstring>
+	<stdlib.h>
+
+1369623112 c:\users\andree\documents\github\cs-unsa-cs102o-john-romulo\proyectooad\matrix.h
+	<map>
+
+1369623112 c:\users\andree\documents\github\cs-unsa-cs102o-john-romulo\proyectooad\toolslexer.h
+	<string>
+	<list>
+	"Cell.h"
+	<iostream>
+
+1369768348 source:c:\users\andree\documents\github\cs-unsa-cs102o-john-romulo\proyectooad\main.cpp
+	<iostream>
+	"Matrix.h"
+	<cstring>
+	"Lexer.h"
+	"Expresion.h"
+	"Operand.h"
+
+1369623112 c:\users\andree\documents\github\cs-unsa-cs102o-john-romulo\proyectooad\operand.h
+	"Expresion.h"
+
+1369623112 source:c:\users\andree\documents\github\cs-unsa-cs102o-john-romulo\proyectooad\operand.cpp
+	"Operand.h"
+
+1369623112 source:c:\users\andree\documents\github\cs-unsa-cs102o-john-romulo\proyectooad\operation.cpp
+	"Operation.h"
+
+1369623112 c:\users\andree\documents\github\cs-unsa-cs102o-john-romulo\proyectooad\operation.h
+	"Expresion.h"
+	"inclusions.h"
+	<string>
+	<map>
+

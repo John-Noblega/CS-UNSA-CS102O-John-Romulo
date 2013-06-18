@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1353751060 source:c:\users\andree\documents\github\cs-unsa-cs102o-john-romulo\proyectooad\analizador\analizadorv2\main.cpp
+	<iostream>
+
+1370282735 source:c:\users\andree\documents\github\cs-unsa-cs102o-john-romulo\proyectooad\analizador\analizadorv2\token.cpp
+	"Token.h"
+
+1370282701 c:\users\andree\documents\github\cs-unsa-cs102o-john-romulo\proyectooad\analizador\analizadorv2\token.h
+	<string>
+
